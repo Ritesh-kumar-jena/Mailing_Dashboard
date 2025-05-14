@@ -129,6 +129,10 @@ Example payload for adding mail (`/mail/add`):
   "specification": ["inbox"]
 }
 ```
+
+---
+
+```
 ## Backend URL
 - https://mailing-dashboard.onrender.com
 ---
