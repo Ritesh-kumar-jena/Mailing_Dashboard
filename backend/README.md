@@ -128,9 +128,6 @@ Example payload for adding mail (`/mail/add`):
   "catagory": "unread",
   "specification": ["inbox"]
 }
-```
-
----
 
 ```
 ## Backend URL
